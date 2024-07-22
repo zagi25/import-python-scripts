@@ -2,7 +2,7 @@ import requests
 import json
 from urllib.parse import urlparse
 
-cookies = {'login-token': 'fd628a0f-843a-414a-924a-834884b8fa25%3addb9beb7-6fc3-4d64-853f-71c783b7148c_8afc6adb9ef476f0706b68da4969f9ca%3acrx.default'}
+cookies = {'login-token': ''}
 BASE_URL = 'https://dc-author.corp.adobe.com/content/dx-dc/us/en'
 URL_SUF = '/jcr:content.json'
 
